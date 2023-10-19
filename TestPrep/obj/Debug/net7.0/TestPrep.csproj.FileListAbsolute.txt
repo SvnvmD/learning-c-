@@ -1,0 +1,15 @@
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/bin/Debug/net7.0/TestPrep
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/bin/Debug/net7.0/TestPrep.deps.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/bin/Debug/net7.0/TestPrep.runtimeconfig.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/bin/Debug/net7.0/TestPrep.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/bin/Debug/net7.0/TestPrep.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/obj/Debug/net7.0/TestPrep.csproj.AssemblyReference.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/obj/Debug/net7.0/TestPrep.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/obj/Debug/net7.0/TestPrep.AssemblyInfoInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/obj/Debug/net7.0/TestPrep.AssemblyInfo.cs
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/obj/Debug/net7.0/TestPrep.csproj.CoreCompileInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/obj/Debug/net7.0/TestPrep.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/obj/Debug/net7.0/refint/TestPrep.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/obj/Debug/net7.0/TestPrep.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/obj/Debug/net7.0/TestPrep.genruntimeconfig.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/TestPrep/obj/Debug/net7.0/ref/TestPrep.dll

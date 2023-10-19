@@ -1,0 +1,15 @@
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/net7.0/FineForOverdueBooks
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/net7.0/FineForOverdueBooks.deps.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/net7.0/FineForOverdueBooks.runtimeconfig.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/net7.0/FineForOverdueBooks.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/net7.0/FineForOverdueBooks.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.csproj.AssemblyReference.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.AssemblyInfoInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.AssemblyInfo.cs
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.csproj.CoreCompileInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/refint/FineForOverdueBooks.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.genruntimeconfig.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/ref/FineForOverdueBooks.dll

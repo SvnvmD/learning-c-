@@ -1,0 +1,15 @@
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/bin/Debug/net7.0/Admission
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/bin/Debug/net7.0/Admission.deps.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/bin/Debug/net7.0/Admission.runtimeconfig.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/bin/Debug/net7.0/Admission.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/bin/Debug/net7.0/Admission.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/obj/Debug/net7.0/Admission.csproj.AssemblyReference.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/obj/Debug/net7.0/Admission.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/obj/Debug/net7.0/Admission.AssemblyInfoInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/obj/Debug/net7.0/Admission.AssemblyInfo.cs
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/obj/Debug/net7.0/Admission.csproj.CoreCompileInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/obj/Debug/net7.0/Admission.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/obj/Debug/net7.0/refint/Admission.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/obj/Debug/net7.0/Admission.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/obj/Debug/net7.0/Admission.genruntimeconfig.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/Admission/Admission/obj/Debug/net7.0/ref/Admission.dll

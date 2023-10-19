@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D74D0C84-1E25-4A6D-874B-407D5DDA870B}|Default">
+  <MonoDevelop.Ide.ItemProperties.FineForOverdueBooks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FineForOverdueBooks/Program.cs">
+    <Files>
+      <File FileName="FineForOverdueBooks/Program.cs" Line="28" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FineForOverdueBooks" expanded="True">
+            <Node name="FineForOverdueBooks" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

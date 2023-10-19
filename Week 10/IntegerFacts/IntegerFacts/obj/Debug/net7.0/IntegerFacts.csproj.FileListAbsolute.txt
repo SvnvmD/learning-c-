@@ -1,0 +1,15 @@
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/bin/Debug/net7.0/IntegerFacts
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/bin/Debug/net7.0/IntegerFacts.deps.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/bin/Debug/net7.0/IntegerFacts.runtimeconfig.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/bin/Debug/net7.0/IntegerFacts.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/bin/Debug/net7.0/IntegerFacts.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/obj/Debug/net7.0/IntegerFacts.csproj.AssemblyReference.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/obj/Debug/net7.0/IntegerFacts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/obj/Debug/net7.0/IntegerFacts.AssemblyInfoInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/obj/Debug/net7.0/IntegerFacts.AssemblyInfo.cs
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/obj/Debug/net7.0/IntegerFacts.csproj.CoreCompileInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/obj/Debug/net7.0/IntegerFacts.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/obj/Debug/net7.0/refint/IntegerFacts.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/obj/Debug/net7.0/IntegerFacts.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/obj/Debug/net7.0/IntegerFacts.genruntimeconfig.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 10/IntegerFacts/IntegerFacts/obj/Debug/net7.0/ref/IntegerFacts.dll

@@ -1,0 +1,15 @@
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/bin/Debug/net7.0/PaintingEstimate
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/bin/Debug/net7.0/PaintingEstimate.deps.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/bin/Debug/net7.0/PaintingEstimate.runtimeconfig.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/bin/Debug/net7.0/PaintingEstimate.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/bin/Debug/net7.0/PaintingEstimate.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/obj/Debug/net7.0/PaintingEstimate.csproj.AssemblyReference.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/obj/Debug/net7.0/PaintingEstimate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/obj/Debug/net7.0/PaintingEstimate.AssemblyInfoInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/obj/Debug/net7.0/PaintingEstimate.AssemblyInfo.cs
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/obj/Debug/net7.0/PaintingEstimate.csproj.CoreCompileInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/obj/Debug/net7.0/PaintingEstimate.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/obj/Debug/net7.0/refint/PaintingEstimate.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/obj/Debug/net7.0/PaintingEstimate.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/obj/Debug/net7.0/PaintingEstimate.genruntimeconfig.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/IFN556/Tutorials/PaintingEstimate/PaintingEstimate/obj/Debug/net7.0/ref/PaintingEstimate.dll

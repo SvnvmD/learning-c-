@@ -1,0 +1,15 @@
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\bin\Debug\net7.0\Averages.exe
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\bin\Debug\net7.0\Averages.deps.json
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\bin\Debug\net7.0\Averages.runtimeconfig.json
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\bin\Debug\net7.0\Averages.dll
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\bin\Debug\net7.0\Averages.pdb
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\obj\Debug\net7.0\Averages.csproj.AssemblyReference.cache
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\obj\Debug\net7.0\Averages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\obj\Debug\net7.0\Averages.AssemblyInfoInputs.cache
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\obj\Debug\net7.0\Averages.AssemblyInfo.cs
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\obj\Debug\net7.0\Averages.csproj.CoreCompileInputs.cache
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\obj\Debug\net7.0\Averages.dll
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\obj\Debug\net7.0\refint\Averages.dll
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\obj\Debug\net7.0\Averages.pdb
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\obj\Debug\net7.0\Averages.genruntimeconfig.cache
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\Averages\obj\Debug\net7.0\ref\Averages.dll

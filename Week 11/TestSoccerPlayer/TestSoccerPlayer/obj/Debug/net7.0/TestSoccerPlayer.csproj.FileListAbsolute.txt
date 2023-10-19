@@ -1,0 +1,15 @@
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/bin/Debug/net7.0/TestSoccerPlayer
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/bin/Debug/net7.0/TestSoccerPlayer.deps.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/bin/Debug/net7.0/TestSoccerPlayer.runtimeconfig.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/bin/Debug/net7.0/TestSoccerPlayer.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/bin/Debug/net7.0/TestSoccerPlayer.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/obj/Debug/net7.0/TestSoccerPlayer.csproj.AssemblyReference.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/obj/Debug/net7.0/TestSoccerPlayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/obj/Debug/net7.0/TestSoccerPlayer.AssemblyInfoInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/obj/Debug/net7.0/TestSoccerPlayer.AssemblyInfo.cs
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/obj/Debug/net7.0/TestSoccerPlayer.csproj.CoreCompileInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/obj/Debug/net7.0/TestSoccerPlayer.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/obj/Debug/net7.0/refint/TestSoccerPlayer.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/obj/Debug/net7.0/TestSoccerPlayer.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/obj/Debug/net7.0/TestSoccerPlayer.genruntimeconfig.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/TestSoccerPlayer/TestSoccerPlayer/obj/Debug/net7.0/ref/TestSoccerPlayer.dll

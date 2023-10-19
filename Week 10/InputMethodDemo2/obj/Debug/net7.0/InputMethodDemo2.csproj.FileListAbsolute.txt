@@ -1,0 +1,15 @@
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\bin\Debug\net7.0\InputMethodDemo2.exe
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\bin\Debug\net7.0\InputMethodDemo2.deps.json
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\bin\Debug\net7.0\InputMethodDemo2.runtimeconfig.json
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\bin\Debug\net7.0\InputMethodDemo2.dll
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\bin\Debug\net7.0\InputMethodDemo2.pdb
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\obj\Debug\net7.0\InputMethodDemo2.csproj.AssemblyReference.cache
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\obj\Debug\net7.0\InputMethodDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\obj\Debug\net7.0\InputMethodDemo2.AssemblyInfoInputs.cache
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\obj\Debug\net7.0\InputMethodDemo2.AssemblyInfo.cs
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\obj\Debug\net7.0\InputMethodDemo2.csproj.CoreCompileInputs.cache
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\obj\Debug\net7.0\InputMethodDemo2.dll
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\obj\Debug\net7.0\refint\InputMethodDemo2.dll
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\obj\Debug\net7.0\InputMethodDemo2.pdb
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\obj\Debug\net7.0\InputMethodDemo2.genruntimeconfig.cache
+C:\Users\N11684097\OneDrive - Queensland University of Technology\SEM5 D\IFN556\Tutorials\Week 10\InputMethodDemo2\obj\Debug\net7.0\ref\InputMethodDemo2.dll

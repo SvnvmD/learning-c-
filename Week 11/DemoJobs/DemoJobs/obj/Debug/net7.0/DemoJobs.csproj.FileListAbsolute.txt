@@ -1,0 +1,15 @@
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/bin/Debug/net7.0/DemoJobs
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/bin/Debug/net7.0/DemoJobs.deps.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/bin/Debug/net7.0/DemoJobs.runtimeconfig.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/bin/Debug/net7.0/DemoJobs.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/bin/Debug/net7.0/DemoJobs.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.csproj.AssemblyReference.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.AssemblyInfoInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.AssemblyInfo.cs
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.csproj.CoreCompileInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/obj/Debug/net7.0/refint/DemoJobs.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/obj/Debug/net7.0/DemoJobs.genruntimeconfig.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/Tutorials/Week 11/DemoJobs/DemoJobs/obj/Debug/net7.0/ref/DemoJobs.dll
