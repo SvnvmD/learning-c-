@@ -1,0 +1,30 @@
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/bin/Debug/net7.0/ProductStore
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/bin/Debug/net7.0/ProductStore.deps.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/bin/Debug/net7.0/ProductStore.runtimeconfig.json
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/bin/Debug/net7.0/ProductStore.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/bin/Debug/net7.0/ProductStore.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/obj/Debug/net7.0/ProductStore.csproj.AssemblyReference.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/obj/Debug/net7.0/ProductStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/obj/Debug/net7.0/ProductStore.AssemblyInfoInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/obj/Debug/net7.0/ProductStore.AssemblyInfo.cs
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/obj/Debug/net7.0/ProductStore.csproj.CoreCompileInputs.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/obj/Debug/net7.0/ProductStore.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/obj/Debug/net7.0/refint/ProductStore.dll
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/obj/Debug/net7.0/ProductStore.pdb
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/obj/Debug/net7.0/ProductStore.genruntimeconfig.cache
+/Users/sonam/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/obj/Debug/net7.0/ref/ProductStore.dll
+/Users/sonam/Desktop/ProductStore/bin/Debug/net7.0/ProductStore
+/Users/sonam/Desktop/ProductStore/bin/Debug/net7.0/ProductStore.deps.json
+/Users/sonam/Desktop/ProductStore/bin/Debug/net7.0/ProductStore.runtimeconfig.json
+/Users/sonam/Desktop/ProductStore/bin/Debug/net7.0/ProductStore.dll
+/Users/sonam/Desktop/ProductStore/bin/Debug/net7.0/ProductStore.pdb
+/Users/sonam/Desktop/ProductStore/obj/Debug/net7.0/ProductStore.csproj.AssemblyReference.cache
+/Users/sonam/Desktop/ProductStore/obj/Debug/net7.0/ProductStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonam/Desktop/ProductStore/obj/Debug/net7.0/ProductStore.AssemblyInfoInputs.cache
+/Users/sonam/Desktop/ProductStore/obj/Debug/net7.0/ProductStore.AssemblyInfo.cs
+/Users/sonam/Desktop/ProductStore/obj/Debug/net7.0/ProductStore.csproj.CoreCompileInputs.cache
+/Users/sonam/Desktop/ProductStore/obj/Debug/net7.0/ProductStore.dll
+/Users/sonam/Desktop/ProductStore/obj/Debug/net7.0/refint/ProductStore.dll
+/Users/sonam/Desktop/ProductStore/obj/Debug/net7.0/ProductStore.pdb
+/Users/sonam/Desktop/ProductStore/obj/Debug/net7.0/ProductStore.genruntimeconfig.cache
+/Users/sonam/Desktop/ProductStore/obj/Debug/net7.0/ref/ProductStore.dll

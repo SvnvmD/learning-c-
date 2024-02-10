@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5BB2CEC5-CDC0-4AB0-BD8A-83955AB0B2B6}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProductStore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/Program.cs">
+    <Files>
+      <File FileName="../../Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/SEM5 D/IFN556/ProductStore/Program.cs" Line="79" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductStore" expanded="True">
+            <Node name="ProductStore" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
